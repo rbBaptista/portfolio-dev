@@ -1,0 +1,17 @@
+:root {
+	/*main colors*/
+
+	--main-color-red: #E3646E;
+	--main-color-purple: #BB72E9;
+	--main-color-blue: #3996DB;
+	--main-color-green: #82BC4F;
+	--main-color-yellow: #EABD5F;
+
+	/*base color*/
+	--base-color-gray-100: #0D0E11;
+	--base-color-gray-200: #16181D;
+	--base-color-gray-300: #292C34;
+	--base-color-gray-400: #878EA1;
+	--base-color-gray-500: #C0C4CE;
+	--base-color-gray-600: #E2E4E9;
+}
