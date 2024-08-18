@@ -1,6 +1,11 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
 :root {
 	/*main colors*/
-
 	--main-color-red: #E3646E;
 	--main-color-purple: #BB72E9;
 	--main-color-blue: #3996DB;
@@ -14,4 +19,23 @@
 	--base-color-gray-400: #878EA1;
 	--base-color-gray-500: #C0C4CE;
 	--base-color-gray-600: #E2E4E9;
+
+	/*font family*/
+	--font-family-asap: 'Asap', sans-serif;
+	--font-family-inconsolata: 'Inconsolata', monospace;
+	--font-family-movenpro: 'Moven pro', sans-serif;
+
+	/*font size*/
+	--font-size-title-lg: 800 56px/120% var(--font-family-asap);
+	--font-size-title-md: 800 24px/120% var(--font-family-asap);
+	--font-size-title-sm: 800 16px/120% var(--font-family-asap);
+
+	--font-size-subtitle: 400 20px/120% var(--font-family-inconsolata);
+
+	--font-size-text-md: 400 16px/140% var(--font-family-movenpro);
+	--font-size-text-sm: 400 14px/140% var(--font-family-movenpro);
+}
+
+p {
+	font: var(--font-size-title-lg);
 }
