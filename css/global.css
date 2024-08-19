@@ -36,6 +36,8 @@
 	--font-size-text-sm: 400 14px/140% var(--font-family-movenpro);
 }
 
-p {
-	font: var(--font-size-title-lg);
+.container {
+	max-width: 1366px;
+	margin: 0 auto;
+	padding: 0;
 }

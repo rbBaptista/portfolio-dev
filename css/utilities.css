@@ -1,0 +1,11 @@
+.subtitle {
+	font: var(--font-size-subtitle);
+}
+
+.title {
+	font: var(--font-size-title-lg);
+}
+
+.text-sm {
+	font: var(--font-size-text-sm);
+}
