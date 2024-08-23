@@ -23,7 +23,7 @@
 	/*font family*/
 	--font-family-asap: 'Asap', sans-serif;
 	--font-family-inconsolata: 'Inconsolata', monospace;
-	--font-family-movenpro: 'Moven pro', sans-serif;
+	--font-family-mavenpro: 'Moven pro', sans-serif;
 
 	/*font size*/
 	--font-size-title-lg: 800 56px/120% var(--font-family-asap);
@@ -32,8 +32,8 @@
 
 	--font-size-subtitle: 400 20px/120% var(--font-family-inconsolata);
 
-	--font-size-text-md: 400 16px/140% var(--font-family-movenpro);
-	--font-size-text-sm: 400 14px/140% var(--font-family-movenpro);
+	--font-size-text-md: 400 16px/140% var(--font-family-mavenpro);
+	--font-size-text-sm: 400 14px/140% var(--font-family-mavenpro);
 }
 
 .container {

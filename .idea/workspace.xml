@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9dda4c09-5dc1-4c09-96fb-ad604f0f97d1" name="Changes" comment="add font">
-      <change afterPath="$PROJECT_DIR$/assets/img/perfil.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/intro.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/utilities.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/icon/CSS.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/icon/CSS.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/icon/GitHub.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/icon/GitHub.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/icon/HTML.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/icon/HTML.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/icon/JavaScript.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/icon/JavaScript.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/icon/Node.js.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/icon/Node.js.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/icon/React.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/icon/React.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/global.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/global.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="9dda4c09-5dc1-4c09-96fb-ad604f0f97d1" name="Changes" comment="release 1.0" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,7 +78,9 @@
       <workItem from="1723872891512" duration="4074000" />
       <workItem from="1723992299903" duration="9427000" />
       <workItem from="1724065628792" duration="1124000" />
-      <workItem from="1724067385308" duration="9986000" />
+      <workItem from="1724067385308" duration="24275000" />
+      <workItem from="1724177582176" duration="27683000" />
+      <workItem from="1724417576952" duration="147000" />
     </task>
     <task id="LOCAL-00001" summary="add font">
       <option name="closed" value="true" />
@@ -102,14 +90,43 @@
       <option name="project" value="LOCAL" />
       <updated>1723992762385</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="intro complete">
+      <option name="closed" value="true" />
+      <created>1724090258545</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1724090258545</updated>
+    </task>
+    <task id="LOCAL-00003" summary="release 1.0">
+      <option name="closed" value="true" />
+      <created>1724417596728</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1724417596728</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add font" />
-    <option name="LAST_COMMIT_MESSAGE" value="add font" />
+    <MESSAGE value="intro complete" />
+    <MESSAGE value="release 1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="release 1.0" />
   </component>
 </project>

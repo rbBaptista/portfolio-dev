@@ -3,7 +3,7 @@
 	flex-direction: column;
 	background-image: url(../assets/img/Background_Intro.png);
 	background-size: cover;
-	height: 750px;
+	height: 787px;
 	align-items: center;
 }
 
@@ -11,7 +11,7 @@
 	padding: 120px 183px 94px;
 }
 
-#header {
+#header-intro {
 	max-width: 680px;
 	margin: 0 auto 80px;
 	display: flex;
@@ -29,10 +29,21 @@
 
 	h2 {
 		margin-bottom: 16px;
+		color: var(--base-color-gray-500);
+
+		span {
+			color: var(--main-color-red);
+		}
 	}
 
 	h1 {
 		margin-bottom: 24px;
+		color: var(--base-color-gray-600);
+	}
+
+	p {
+		font: var(--font-size-text-sm);
+		color: var(--base-color-gray-400);
 	}
 
 }
@@ -50,13 +61,18 @@
 	justify-content: center;
 	background-color: var(--base-color-gray-300);
 	border-radius: 100px;
-	width: 114px;
 	height: 40px;
 	gap: 8px;
+	padding: 8px 16px;
 
 	img {
 		width: 24px;
 		height: 24px;
+	}
+
+	span {
+		font: var(--font-size-text-md);
+		color: var(--base-color-gray-500);
 	}
 }
 
